@@ -1,0 +1,23 @@
+{
+  "name": "Simple Vanilla Javascript/SCSS Carousel",
+  "version": "1.0.0",
+  "author": "phpcoder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phpcoder/simple-carousel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phpcoder/simple-carousel/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "sass": "^1.0.0",
+    "vite": "^4.0.0"
+  }
+}
