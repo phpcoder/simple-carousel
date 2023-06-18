@@ -35,7 +35,7 @@ $carousel-breakpoints: (
 
 @include carousel-bp('#carousel', $carousel-breakpoints, 6);
 ```
-
+Note the total number of carousel items as the last argument of the ```carousel-bp()``` mixin.
 
 
 ## Links
